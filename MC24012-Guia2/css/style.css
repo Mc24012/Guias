@@ -1,0 +1,28 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: black; /* Color de fondo negro */
+    color: white; /* Color de la tipografía blanco */
+    font-family: Arial, sans-serif; /* Fuente general */
+}
+
+/* Estilos para el encabezado */
+header {
+    text-align: center; /* Centrar el contenido del encabezado */
+}
+
+/* Estilos para el título h3 */
+h3 {
+    font-style: italic; /* Texto cursivo */
+}
+
+/* Estilos para la sección */
+section {
+    font-family: Helvetica, sans-serif; /* Tipo de tipografía Helvetica */
+    font-size: 12pt; /* Tamaño de letra 12pt */
+    text-align: justify; /* Texto justificado */
+}
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center; /* Centrar el contenido del pie de página */
+}
